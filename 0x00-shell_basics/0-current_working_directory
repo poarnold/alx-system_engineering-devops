@@ -1,4 +1,2 @@
 #!/bin/bash
-#Print current working directory script
-
-echo $(pwd)$'\n' 
+echo $(pwd) 
