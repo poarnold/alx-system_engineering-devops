@@ -1,2 +1,2 @@
 #!/bin/bash
-head -n 5 iacta | tail +5 >> iacta
+echo `head -n 5 iacta | tail +5` >> iacta
